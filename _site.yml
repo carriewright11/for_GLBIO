@@ -9,7 +9,7 @@ navbar:
   - text: Setup
     href: setup.html
   - text: Hosting
-    href: hosting.html
+    href: Hosting.html
   - text: Editing
     href: editing.html
   - text: Style
