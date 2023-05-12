@@ -1,6 +1,6 @@
 # OTTR Template for Websites
 
-This is a template for creating websites from Rmd files hosted on GitHub with three helpful automations following a pull request to the repository: spelling check, broken link check, and website rendering.
+This is website made with a template for creating websites from Rmd files hosted on GitHub with three helpful automations following a pull request to the repository: spelling check, broken link check, and website rendering.
 
 Websites will be checked for:
 
