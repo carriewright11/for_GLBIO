@@ -40,8 +40,9 @@ As an example if you wanted to change the color of the blue line to green you co
 knitr::include_graphics("resources/images/blue.png")
 ```
 
-Note that if you change the css file with a new element that is not already defined like `body` then you would need to do it as done with the `banner` element. Thiss was then added to the index.Rmd file by using:
+Note that if you changee the css file with a new eloment that is not already defined like `body` then you would need to do it as done with the `banner` element. Thiss was then added to the index.Rmd file by using:
 
+Tool name: CSCAN
 ```
 <div class = "banner">
 Banner text!  
